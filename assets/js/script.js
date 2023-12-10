@@ -1,4 +1,4 @@
-// PROPIEDADES EN VENTA
+
 const propiedadesEnVenta = [
   {
     nombre: "Apartamento de lujo en zona exclusiva",
@@ -38,7 +38,7 @@ const propiedadesEnVenta = [
   },
 ];
 
-// PROPIEDADES EN ALQUILER
+
 
 const propiedadesEnAlquiler = [
   {
@@ -79,7 +79,7 @@ const propiedadesEnAlquiler = [
   },
 ];
 
-// CREACION DE LAS TARJETAS
+
 
 const creacionPropiedad = (propiedad) => {
   return `<div class="col-md-4 mb-4"><div class="card">
